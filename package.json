@@ -1,0 +1,25 @@
+{
+  "name": "demo-test-repo",
+  "version": "1.0.0",
+  "description": "Hello My name is Kaif Ansari. I am a passionate open-source enthusiast and a software developer with a keen interest in web development and cybersecurity. I love contributing to open-source projects and collaborating with like-minded individuals to create impactful software solutions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdkaifansari04/demo-test-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mdkaifansari04/demo-test-repo/issues"
+  },
+  "homepage": "https://github.com/mdkaifansari04/demo-test-repo#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "octokit": "^5.0.5"
+  }
+}
